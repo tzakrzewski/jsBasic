@@ -7,8 +7,8 @@ const interestRate = 0.3;
 
 // Object Literal {}
 let person = {
-  name: 'Mosh',
-  age: 30
+  name: 'Teddy',
+  age: 31
 };
 
 // Accessing Members
