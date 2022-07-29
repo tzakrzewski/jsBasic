@@ -81,7 +81,7 @@ function exSum(...args) {
   return args.reduce((a, b) => a + b);
 }
 
-// Simple getter/setter
+// Simple getter/setter -- makes it into a property
 const circle = {
   radius: 0,
   get area() {
